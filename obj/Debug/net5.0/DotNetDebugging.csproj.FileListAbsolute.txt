@@ -1,0 +1,16 @@
+C:\Development\Study\DotNetDebugging\bin\Debug\net5.0\DotNetDebugging.exe
+C:\Development\Study\DotNetDebugging\bin\Debug\net5.0\DotNetDebugging.deps.json
+C:\Development\Study\DotNetDebugging\bin\Debug\net5.0\DotNetDebugging.runtimeconfig.json
+C:\Development\Study\DotNetDebugging\bin\Debug\net5.0\DotNetDebugging.runtimeconfig.dev.json
+C:\Development\Study\DotNetDebugging\bin\Debug\net5.0\DotNetDebugging.dll
+C:\Development\Study\DotNetDebugging\bin\Debug\net5.0\ref\DotNetDebugging.dll
+C:\Development\Study\DotNetDebugging\bin\Debug\net5.0\DotNetDebugging.pdb
+C:\Development\Study\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.csproj.AssemblyReference.cache
+C:\Development\Study\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Study\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Development\Study\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.AssemblyInfo.cs
+C:\Development\Study\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Development\Study\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.dll
+C:\Development\Study\DotNetDebugging\obj\Debug\net5.0\ref\DotNetDebugging.dll
+C:\Development\Study\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.pdb
+C:\Development\Study\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.genruntimeconfig.cache
